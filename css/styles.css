@@ -11018,8 +11018,8 @@ header.masthead h1, header.masthead .h1 {
 .text-massive {
     --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
-  font-size: 7rem;
-  line-height: 5rem;
+  font-size: 4rem;
+  line-height: 3rem;
   padding-bottom: 2rem;
 }
 
