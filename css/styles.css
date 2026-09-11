@@ -11041,6 +11041,16 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .team-member {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.team-member .btn {
+    margin-top: auto;
+}
+
+.team-member {
   margin-bottom: 3rem;
   text-align: center;
 }
